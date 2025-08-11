@@ -19,7 +19,6 @@ A modern, full-stack medical portal application built with Next.js, TypeScript, 
 - **UI Components:** Radix UI
 - **Form Handling:** React Hook Form with Zod validation
 - **State Management:** React Hooks
-- **Real-time Features:** WebSocket
 - **Database:** Upstash Redis
 - **AI Integration:** OpenAI
 
@@ -93,5 +92,6 @@ medical-portal/
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Support
+
 
 For support, please open an issue in the GitHub repository or contact the development team.
