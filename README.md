@@ -2,6 +2,8 @@
 
 A modern, full-stack medical portal application built with Next.js, TypeScript, and Tailwind CSS. This application provides a comprehensive platform for managing medical appointments, patient records, and healthcare services.
 
+You can check out this project @ https://medical-portal-beta.vercel.app/ 
+
 ## Features
 
 - 🔐 Secure authentication system with login and signup functionality
@@ -95,3 +97,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 
 For support, please open an issue in the GitHub repository or contact the development team.
+
